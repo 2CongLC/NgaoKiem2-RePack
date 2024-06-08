@@ -1,0 +1,17 @@
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\bin\Debug\GameTool BaDao(Gosu)-NK2.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\bin\Debug\GameTool BaDao(Gosu)-NK2.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\bin\Debug\GameTool BaDao(Gosu)-NK2.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\bin\Debug\GameTool BaDao(Gosu)-NK2.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\bin\Debug\7zip.dll
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\bin\Debug\zlib.net.dll
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\bin\Debug\7zip.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\bin\Debug\zlib.net.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\obj\Debug\GameTool BaDao(Gosu)-NK2.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\obj\Debug\GameTool BaDao(Gosu)-NK2.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\obj\Debug\GameTool BaDao(Gosu)-NK2.vbproj.CoreCompileInputs.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\obj\Debug\GameTool BaDao(Gosu)-NK2.vbproj.CopyComplete
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\obj\Debug\GameTool BaDao(Gosu)-NK2.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\obj\Debug\GameTool BaDao(Gosu)-NK2.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\GameTool BaDao(Gosu)-NK2\obj\Debug\GameTool BaDao(Gosu)-NK2.pdb

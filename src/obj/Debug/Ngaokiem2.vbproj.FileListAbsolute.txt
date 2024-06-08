@@ -1,0 +1,17 @@
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\bin\Debug\GameTool BaDao(Gosu)-NK2.exe.config
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\bin\Debug\GameTool BaDao(Gosu)-NK2.exe
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\bin\Debug\GameTool BaDao(Gosu)-NK2.pdb
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\bin\Debug\GameTool BaDao(Gosu)-NK2.xml
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\bin\Debug\7zip.dll
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\bin\Debug\zlib.net.dll
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\bin\Debug\7zip.pdb
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\bin\Debug\zlib.net.pdb
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\obj\Debug\Ngaokiem2.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\obj\Debug\ChuCong.Form1.resources
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\obj\Debug\ChuCong.Resources.resources
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\obj\Debug\Ngaokiem2.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\obj\Debug\Ngaokiem2.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\obj\Debug\Ngaokiem2.vbproj.Up2Date
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\obj\Debug\GameTool BaDao(Gosu)-NK2.exe
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\obj\Debug\GameTool BaDao(Gosu)-NK2.xml
+D:\Source VBNet_C#\GitHub\NgaoKiem2-RePack\src\obj\Debug\GameTool BaDao(Gosu)-NK2.pdb
